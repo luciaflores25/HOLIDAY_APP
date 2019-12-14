@@ -1,2 +1,2 @@
 ## HOLIDAY APP
-<img src=img/screenshoot.png />
+<img src=img/screnshoot.png />
