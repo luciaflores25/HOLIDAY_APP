@@ -1,0 +1,66 @@
+﻿body {
+    background: #343a40 !important;
+}
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    background-color: beige;
+    padding: 30px;
+}
+
+input[type='submit'], button, [aria-label] {
+    cursor: pointer;
+}
+
+#spoiler {
+    display: none;
+}
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #0066CC;
+    color: white;
+    border: 1px solid #000000;
+}
+
+td {
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+    min-height: 100px;
+}
+input[type='submit'], button, [aria-label] {
+    cursor: pointer;
+}
+
+#spoiler {
+    display: none;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #343a40;
+    color: white;
+    padding: 5px;
+    border: 2px solid #343a40;
+}
+
+td {
+    border: 2px solid #343a40;
+    padding: 5px;
+    text-align: center;
+    min-height: 100px;
+}
